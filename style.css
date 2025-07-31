@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    background-color: aqua;
+    height: 6.9rem;
+    display: flex;
+    align-items: center;
+
+    .logo {
+        margin-left: 15px;
+        
+        img {
+            width: 17.70rem;
+            height: 3.125rem;
+            border-radius: 0.3rem;
+            margin: 20px;
+        }
+    }
+}
